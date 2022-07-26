@@ -9,17 +9,17 @@
  - Teaching
 
 ## My Skills
-** Frontend Development**
+**Frontend Development**
 - HTML
 - CSS
 - Javascript
-** Backend Development**
+**Backend Development**
 - Python
 - Django
 - Flask
 - Fast API
 
-*** I also have preliminary experience with Docker, AWS, auth0. I am always learning and improving my skills ***
+***I also have preliminary experience with Docker, AWS, auth0. I am always learning and improving my skills***
 
 **I am currently enrolled in ALX Udacity fullstack nano degree programe. 
 I am also a developer at Cleonify technologies where we build scalable web solutions for end users**
